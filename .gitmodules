@@ -1,0 +1,3 @@
+[submodule "franka-pybullet"]
+	path = franka-pybullet
+	url = https://github.com/AydinGokce/franka-pybullet.git
